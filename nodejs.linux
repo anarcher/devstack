@@ -1,0 +1,8 @@
+# Node
+sudo curl -L http://nodejs.org/dist/v0.10.32/node-v0.10.32-linux-x64.tar.gz | sudo tar -zx --strip 1 -C /usr/local
+
+# Node version manager
+sudo npm install -g n
+
+# Node releases
+n 0.10.32

@@ -1,0 +1,14 @@
+# Ubuntu Update
+sudo apt-get update
+
+# Ubuntu Upgrade
+sudo apt-get upgrade -y
+
+# Build  Tool
+sudo apt-get install -y g++ build-essential  
+
+# Editor
+sudo apt-get install -y vim
+
+# Misc
+sudo apt-get install curl
