@@ -1,3 +1,5 @@
 # Install jarnal
 mkdir ~/jarnal
 cp ~/jarnal-*.zip ~/jarnal
+cd ~/jarnal ; unzip *.zip  ; chmod u+x ./*.sh
+
