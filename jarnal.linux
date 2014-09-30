@@ -1,0 +1,3 @@
+# Install jarnal
+mkdir ~/jarnal
+cp ~/jarnal-*.zip ~/jarnal

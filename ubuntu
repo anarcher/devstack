@@ -2,6 +2,7 @@
 . ./python.ubuntu
 . ./nodejs.linux
 . ./go.linux
+. ./java.ubuntu
 . ./docker.ubuntu
 . ./cli.ubuntu
 . ./cli.linux
