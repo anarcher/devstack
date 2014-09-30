@@ -1,3 +1,6 @@
 # Install Docker
 curl -sSL https://get.docker.io/ubuntu/ | sudo sh
 
+# Install fig
+sudo pip install -U fig
+
