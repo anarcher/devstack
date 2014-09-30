@@ -2,10 +2,10 @@
 curl -sSL https://raw.github.com/grobins2/gobrew/master/tools/install.sh | sh
 
 # gobrew install 1.3.2
-gobrew install 1.3.2
+~/.gobrew/bin/gobrew install 1.3.2
 
 # gobrew use 1.3.2
-gobrew use 1.3.2
+~/.gobrew/bin/gobrew use 1.3.2
 
 # GOPATH
 mkdir ~/go ; export GOPATH=~/go

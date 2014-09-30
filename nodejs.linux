@@ -5,4 +5,4 @@ curl -sSL http://nodejs.org/dist/v0.10.32/node-v0.10.32-linux-x64.tar.gz | sudo 
 sudo npm install -g n
 
 # Node releases
-n 0.10.32
+sudo n 0.10.32

@@ -1,0 +1,5 @@
+# Install autojump
+sudo apt-get install autojump
+
+# Install ruby 
+sudo apt-get install ruby1.9
