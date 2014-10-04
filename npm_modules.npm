@@ -1,0 +1,7 @@
+# install browserify
+
+npm install -g browserify
+
+# install Gulp
+
+npm install -g gulp

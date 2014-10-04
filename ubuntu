@@ -1,6 +1,7 @@
 . ./base.ubuntu
 . ./python.ubuntu
 . ./nodejs.linux
+. ./npm_modules.npm
 . ./go.linux
 . ./java.ubuntu
 . ./docker.ubuntu
