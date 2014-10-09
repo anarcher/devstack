@@ -1,4 +1,5 @@
 . ./base.ubuntu
+. ./scm.ubuntu
 . ./python.ubuntu
 . ./packages.pip
 . ./nodejs.linux
