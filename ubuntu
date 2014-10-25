@@ -9,3 +9,4 @@
 . ./docker.ubuntu
 . ./cli.ubuntu
 . ./cli.linux
+. ./vim.linux

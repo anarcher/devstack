@@ -1,0 +1,11 @@
+set guifont=Mensch\ Regular:h24
+set nocompatible
+set autoindent
+set smarttab
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set visualbell
+set fileencodings=ucs-bom,utf-8,euc-kr
+set mouse=
+

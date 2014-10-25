@@ -1,0 +1,2 @@
+# COPY vimrc
+cp ./dotfiles/vimrc ~/.vimrc
